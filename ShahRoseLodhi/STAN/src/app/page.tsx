@@ -9,7 +9,7 @@ const programs = [
       "Custom WordPress websites that explain what you do and make it easy for customers to take the next step.",
     action: "DISCUSS A PROJECT",
     href: "#contact",
-    image: "/images/shahroselodhi.webp",
+    image: "/images/roselo.png",
     tone: "rose",
   },
   {
