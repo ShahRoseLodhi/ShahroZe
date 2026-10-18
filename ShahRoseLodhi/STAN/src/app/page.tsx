@@ -1,4 +1,5 @@
-const profileImage = "/images/shahro.png";
+const profileImage = "/images/portfolio.png";
+
 
 const programs = [
   {
@@ -9,7 +10,7 @@ const programs = [
       "Custom WordPress websites that explain what you do and make it easy for customers to take the next step.",
     action: "DISCUSS A PROJECT",
     href: "#contact",
-    image: "/images/portfolio.png",
+    image: "/images/shahro.png",
     tone: "rose",
   },
   {
@@ -31,7 +32,7 @@ const programs = [
       "Give an existing site a more polished look, responsive layouts, and simpler page editing.",
     action: "DISCUSS A PROJECT",
     href: "#contact",
-    image: "/images/roselo.png",
+    image: "/images/portfolio.png",
     tone: "peach",
   },
 ];
