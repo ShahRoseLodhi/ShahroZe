@@ -20,7 +20,7 @@ const programs = [
       "A clear, easy-to-manage shopping experience built with WordPress and WooCommerce.",
     action: "DISCUSS A PROJECT",
     href: "#contact",
-    image: roselo,
+    image: "/images/roselo.png";,
     tone: "lavender",
   },
   {
@@ -31,7 +31,7 @@ const programs = [
       "Give an existing site a more polished look, responsive layouts, and simpler page editing.",
     action: "DISCUSS A PROJECT",
     href: "#contact",
-    image: shahro.png,
+    image: "/images/shahro.png";,
     tone: "peach",
   },
 ];
