@@ -1,4 +1,4 @@
-const profileImage = "/public/images/shahro.png";
+const profileImage = "/images/shahro.png";
 
 const programs = [
   {
@@ -9,7 +9,7 @@ const programs = [
       "Custom WordPress websites that explain what you do and make it easy for customers to take the next step.",
     action: "DISCUSS A PROJECT",
     href: "#contact",
-    image: shahro.png,
+    image: /images/shahro.png,
     tone: "rose",
   },
   {
