@@ -1,4 +1,4 @@
-const profileImage = "/images/shahro.png.png";
+const profileImage = "/images/roselo.png";
 
 const programs = [
   {
